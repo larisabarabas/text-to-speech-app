@@ -1,0 +1,19 @@
+.App {
+  text-align: left;
+  padding: 30px;
+  display: block;
+}
+
+.App .app-body {
+  display: grid;
+  width: 500px;
+  grid-row-gap: 10px;
+}
+
+.App .app-body textarea {
+  height: 200px;
+}
+
+.App .app-body audio {
+  width: inherit;
+}
